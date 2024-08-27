@@ -9,7 +9,7 @@
 
 -command line tools
 ### DEMO LINK
-[Assignment-one](timioflagos.github.io/assignment-one/)
+[Assignment-one](https://timioflagos.github.io/assignment-one/)
 
 ### Author
 - TIMIOFLAGOS
